@@ -1,0 +1,20 @@
+.header-container {
+  width: 1290px;
+  height: 50px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.header-container #search {
+  width: 620px;
+  height: 49px;
+  border-radius: 50px;
+  background-color: #E3E6EB;
+  border: 1px solid #E3E6EB;
+}/*# sourceMappingURL=login.css.map */

@@ -1,0 +1,56 @@
+body {
+  width: 1440px;
+  height: 100%;
+  background-image: url("/img/Login.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.container {
+  width: 1110px;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.formn {
+  padding-top: 20%;
+  padding-left: 40%;
+  height: 324px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+}
+.formn .nameLog {
+  border: 1px solid white;
+  width: 300px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #fff;
+}
+.formn #namePasword {
+  border: 1px solid white;
+  width: 300px;
+  height: 45px;
+  border-radius: 10px;
+  background-color: transparent;
+  color: #fff;
+}
+.formn .btnLogin {
+  border: 1px solid white;
+  width: 300px;
+  height: 45px;
+  border-radius: 10px;
+  font-size: 20px;
+}/*# sourceMappingURL=main.css.map */

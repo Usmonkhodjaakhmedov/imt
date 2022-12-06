@@ -1,0 +1,16 @@
+.header-container {
+    width: 1290px;
+    height: 50px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    #search {
+    width: 620px;
+    height: 49px;
+    border-radius: 50px;
+     background-color: #E3E6EB;
+     border: 1px solid #E3E6EB;
+    }
+}
+
